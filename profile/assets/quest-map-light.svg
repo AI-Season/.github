@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="t d">
+<title id="t">AI Season quest map — 12 levels in 6 worlds</title>
+<desc id="d">Course path: 1 Agent Foundations, 2 Prompt Engineering and Vibe Coding, 3 RAG and Vector Databases, 4 Design Patterns, 5 LangChain and LangGraph, 6 Mid Test boss, 7 Deployment, 8 Security and Guardrails, 9 MCP and Agent SDK, 10 Voice Agent, 11 Excalidraw Capstone, 12 Final Test boss. Reward: full refund for the top 3 and a verifiable certificate.</desc>
+<style>
+.dash{stroke-dasharray:10 8;animation:dash 1.2s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-18}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pu 1.6s ease-out infinite}
+@keyframes pu{0%{transform:scale(1);opacity:1}100%{transform:scale(1.9);opacity:0}}
+.blink{animation:bl 1.1s steps(1) infinite}
+@keyframes bl{60%{opacity:.2}}
+.bob{animation:bob 2.4s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+</style>
+<rect width="1200" height="450" rx="14" fill="#FFFBEB"/>
+<text x="40" y="62" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="26" font-weight="800" fill="#CA8A04">QUEST MAP</text>
+<text x="210" y="62" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#4B5563">6 weeks · 2 live sessions a week · Cohort 02: 1 Jan → 12 Feb 2027</text>
+<g class="bob">
+<rect x="1004" y="34" width="156" height="40" rx="8" fill="#CA8A04"/>
+<text x="1082" y="60" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" font-weight="800" fill="#111827">LOOT: REFUND ×3</text>
+</g>
+<rect x="32" y="108" width="176" height="300" rx="12" fill="#FEF3C7" stroke="#FDE68A"/>
+<text x="120" y="136" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" font-weight="800" fill="#4B5563" letter-spacing="2">WORLD 1</text><rect x="224" y="108" width="176" height="300" rx="12" fill="#FEF3C7" stroke="#FDE68A"/>
+<text x="312" y="136" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" font-weight="800" fill="#4B5563" letter-spacing="2">WORLD 2</text><rect x="416" y="108" width="176" height="300" rx="12" fill="#FEF3C7" stroke="#FDE68A"/>
+<text x="504" y="136" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" font-weight="800" fill="#4B5563" letter-spacing="2">WORLD 3</text><rect x="608" y="108" width="176" height="300" rx="12" fill="#FEF3C7" stroke="#FDE68A"/>
+<text x="696" y="136" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" font-weight="800" fill="#4B5563" letter-spacing="2">WORLD 4</text><rect x="800" y="108" width="176" height="300" rx="12" fill="#FEF3C7" stroke="#FDE68A"/>
+<text x="888" y="136" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" font-weight="800" fill="#4B5563" letter-spacing="2">WORLD 5</text><rect x="992" y="108" width="176" height="300" rx="12" fill="#FEF3C7" stroke="#FDE68A"/>
+<text x="1080" y="136" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" font-weight="800" fill="#4B5563" letter-spacing="2">WORLD 6</text>
+<path d="M72,250 L168,320 L264,250 L360,320 L456,250 L552,320 L648,250 L744,320 L840,250 L936,320 L1032,250 L1128,320" fill="none" stroke="#D6B85A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="dash" d="M72,250 L168,320 L264,250 L360,320 L456,250 L552,320 L648,250 L744,320 L840,250 L936,320 L1032,250 L1128,320" fill="none" stroke="#CA8A04" stroke-width="3" stroke-linecap="round"/>
+<circle class="pulse" cx="72" cy="250" r="24" fill="none" stroke="#059669" stroke-width="3"/>
+<text class="blink" x="72" y="302" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" font-weight="800" fill="#059669">▲ START</text><circle cx="72" cy="250" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="72" y="256" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">1</text>
+<text x="72" y="198" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Agent</text>
+<text x="72" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Foundations</text>
+<circle cx="168" cy="320" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="168" y="326" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">2</text>
+<text x="168" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Prompts &amp;</text>
+<text x="168" y="386" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Vibe Coding</text>
+<circle cx="264" cy="250" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="264" y="256" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">3</text>
+<text x="264" y="198" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">RAG &amp;</text>
+<text x="264" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Vector DBs</text>
+<circle cx="360" cy="320" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="360" y="326" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">4</text>
+<text x="360" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Design</text>
+<text x="360" y="386" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Patterns</text>
+<circle cx="456" cy="250" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="456" y="256" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">5</text>
+<text x="456" y="198" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">LangChain &amp;</text>
+<text x="456" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">LangGraph</text>
+<rect x="528" y="296" width="48" height="48" rx="6" transform="rotate(45 552 320)" fill="#E11D48" stroke="#FFFBEB" stroke-width="3"/>
+<text x="552" y="326" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" font-weight="800" fill="#fff">BOSS</text>
+<text x="552" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#E11D48">MID TEST</text>
+<text x="552" y="386" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Boss fight</text>
+<circle cx="648" cy="250" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="648" y="256" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">7</text>
+<text x="648" y="198" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Deploy</text>
+<text x="648" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">to the web</text>
+<circle cx="744" cy="320" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="744" y="326" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">8</text>
+<text x="744" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Security &amp;</text>
+<text x="744" y="386" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Guardrails</text>
+<circle cx="840" cy="250" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="840" y="256" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">9</text>
+<text x="840" y="198" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">MCP &amp;</text>
+<text x="840" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Agent SDK</text>
+<circle cx="936" cy="320" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="936" y="326" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">10</text>
+<text x="936" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Voice</text>
+<text x="936" y="386" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Agent</text>
+<circle cx="1032" cy="250" r="24" fill="#FFFFFF" stroke="#CA8A04" stroke-width="3"/>
+<text x="1032" y="256" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#111827">11</text>
+<text x="1032" y="198" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#111827">Excalidraw</text>
+<text x="1032" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Capstone</text>
+<rect x="1104" y="296" width="48" height="48" rx="6" transform="rotate(45 1128 320)" fill="#E11D48" stroke="#FFFBEB" stroke-width="3"/>
+<text x="1128" y="326" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" font-weight="800" fill="#fff">BOSS</text>
+<text x="1128" y="370" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#E11D48">FINAL TEST</text>
+<text x="1128" y="386" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12" fill="#4B5563">Boss fight</text>
+</svg>

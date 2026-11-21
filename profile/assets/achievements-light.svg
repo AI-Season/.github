@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="318" viewBox="0 0 1200 318" role="img" aria-labelledby="t d">
+<title id="t">AI Season achievements</title>
+<desc id="d">Achievements you unlock: First Agent, RAG Master, Graph Wizard, Live on the Web, Guardian, Tool Summoner, Voice Caller, and Top 3 Legend with a full fee refund.</desc>
+<style>
+.pop{animation:pop 6s ease-in-out infinite}
+@keyframes pop{0%{opacity:.35}8%,100%{opacity:1}}
+</style>
+<rect width="1200" height="318" rx="14" fill="#FFFBEB"/>
+<text x="40" y="56" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="26" font-weight="800" fill="#CA8A04">ACHIEVEMENTS</text>
+<text x="260" y="56" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#4B5563">unlock one every level · 8 to collect</text>
+<g class="pop" style="animation-delay:0.00s">
+<rect x="40" y="84" width="270" height="96" rx="10" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1.5"/>
+<rect x="56" y="106" width="52" height="52" rx="8" fill="#059669" opacity=".18"/>
+<path d="M82 114 l6 12 13 2 -9.5 9 2.5 13 -12 -6.5 -12 6.5 2.5 -13 -9.5 -9 13 -2z" fill="#059669"/>
+<text x="124" y="124" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="800" fill="#111827">FIRST AGENT</text>
+<text x="124" y="144" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#4B5563">Ship your first agent</text>
+<text x="124" y="164" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#059669">Level 1</text>
+</g>
+<g class="pop" style="animation-delay:0.35s">
+<rect x="330" y="84" width="270" height="96" rx="10" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1.5"/>
+<rect x="346" y="106" width="52" height="52" rx="8" fill="#059669" opacity=".18"/>
+<path d="M372 114 l6 12 13 2 -9.5 9 2.5 13 -12 -6.5 -12 6.5 2.5 -13 -9.5 -9 13 -2z" fill="#059669"/>
+<text x="414" y="124" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="800" fill="#111827">RAG MASTER</text>
+<text x="414" y="144" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#4B5563">Chat with your own PDFs</text>
+<text x="414" y="164" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#059669">Level 3</text>
+</g>
+<g class="pop" style="animation-delay:0.70s">
+<rect x="620" y="84" width="270" height="96" rx="10" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1.5"/>
+<rect x="636" y="106" width="52" height="52" rx="8" fill="#059669" opacity=".18"/>
+<path d="M662 114 l6 12 13 2 -9.5 9 2.5 13 -12 -6.5 -12 6.5 2.5 -13 -9.5 -9 13 -2z" fill="#059669"/>
+<text x="704" y="124" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="800" fill="#111827">GRAPH WIZARD</text>
+<text x="704" y="144" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#4B5563">Stateful LangGraph agent</text>
+<text x="704" y="164" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#059669">Level 5</text>
+</g>
+<g class="pop" style="animation-delay:1.05s">
+<rect x="910" y="84" width="270" height="96" rx="10" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1.5"/>
+<rect x="926" y="106" width="52" height="52" rx="8" fill="#059669" opacity=".18"/>
+<path d="M952 114 l6 12 13 2 -9.5 9 2.5 13 -12 -6.5 -12 6.5 2.5 -13 -9.5 -9 13 -2z" fill="#059669"/>
+<text x="994" y="124" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="800" fill="#111827">LIVE ON THE WEB</text>
+<text x="994" y="144" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#4B5563">Deploy to a public URL</text>
+<text x="994" y="164" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#059669">Level 7</text>
+</g>
+<g class="pop" style="animation-delay:1.40s">
+<rect x="40" y="198" width="270" height="96" rx="10" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1.5"/>
+<rect x="56" y="220" width="52" height="52" rx="8" fill="#059669" opacity=".18"/>
+<path d="M82 228 l6 12 13 2 -9.5 9 2.5 13 -12 -6.5 -12 6.5 2.5 -13 -9.5 -9 13 -2z" fill="#059669"/>
+<text x="124" y="238" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="800" fill="#111827">GUARDIAN</text>
+<text x="124" y="258" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#4B5563">Block prompt injection</text>
+<text x="124" y="278" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#059669">Level 8</text>
+</g>
+<g class="pop" style="animation-delay:1.75s">
+<rect x="330" y="198" width="270" height="96" rx="10" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1.5"/>
+<rect x="346" y="220" width="52" height="52" rx="8" fill="#059669" opacity=".18"/>
+<path d="M372 228 l6 12 13 2 -9.5 9 2.5 13 -12 -6.5 -12 6.5 2.5 -13 -9.5 -9 13 -2z" fill="#059669"/>
+<text x="414" y="238" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="800" fill="#111827">TOOL SUMMONER</text>
+<text x="414" y="258" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#4B5563">Connect tools with MCP</text>
+<text x="414" y="278" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#059669">Level 9</text>
+</g>
+<g class="pop" style="animation-delay:2.10s">
+<rect x="620" y="198" width="270" height="96" rx="10" fill="#FEF3C7" stroke="#FDE68A" stroke-width="1.5"/>
+<rect x="636" y="220" width="52" height="52" rx="8" fill="#059669" opacity=".18"/>
+<path d="M662 228 l6 12 13 2 -9.5 9 2.5 13 -12 -6.5 -12 6.5 2.5 -13 -9.5 -9 13 -2z" fill="#059669"/>
+<text x="704" y="238" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="800" fill="#111827">VOICE CALLER</text>
+<text x="704" y="258" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#4B5563">Agent that answers calls</text>
+<text x="704" y="278" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#059669">Level 10</text>
+</g>
+<g class="pop" style="animation-delay:2.45s">
+<rect x="910" y="198" width="270" height="96" rx="10" fill="#FEF3C7" stroke="#CA8A04" stroke-width="3"/>
+<rect x="926" y="220" width="52" height="52" rx="8" fill="#CA8A04" opacity=".18"/>
+<path d="M952 228 l6 12 13 2 -9.5 9 2.5 13 -12 -6.5 -12 6.5 2.5 -13 -9.5 -9 13 -2z" fill="#CA8A04"/>
+<text x="994" y="238" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" font-weight="800" fill="#111827">TOP 3 LEGEND</text>
+<text x="994" y="258" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="13" fill="#4B5563">Full fee refunded</text>
+<text x="994" y="278" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#CA8A04">Boss rank</text>
+</g>
+</svg>
